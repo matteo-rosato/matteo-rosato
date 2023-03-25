@@ -2,7 +2,7 @@
 
 I'm a software engineer by day and a code ninja by night. My code is so clean, you could eat off of it (although I wouldn't recommend it). When I'm not busy smashing bugs or dreaming up new features, you can usually find me chugging coffee and muttering to myself about algorithms. My favorite hobbies include debugging, refactoring, and arguing with my computer.
 
-I speak fluent Javascript, PHP, C++, and Python, but I'm also pretty handy with a soldering iron and a can of Red Bull. I love tinkering with hardware almost as much as I love breaking software.
+I'm fluent in multiple programming languages, including PHP, Python, C/C++, and JavaScript. I love tinkering with hardware almost as much as I love breaking software. I'm also pretty skilled at making up acronyms that sound impressive, even if nobody knows what they mean.
 
 In my free time, I enjoy reading tech blogs, listening to nerdy podcasts, and dreaming up new inventions (most of which will never see the light of day). I also like to pretend that I'm a hacker by typing really fast and wearing a hoodie.
 
