@@ -1,6 +1,6 @@
-👋 Hello there, fellow coders! I'm a software engineer by day and a code ninja by night. My code is so clean, you could eat off of it (although I wouldn't recommend it).
+👋 Hello there, fellow coders!
 
-When I'm not busy smashing bugs or dreaming up new features, you can usually find me chugging coffee and muttering to myself about algorithms. My favorite hobbies include debugging, refactoring, and arguing with my computer.
+I'm a software engineer by day and a code ninja by night. My code is so clean, you could eat off of it (although I wouldn't recommend it). When I'm not busy smashing bugs or dreaming up new features, you can usually find me chugging coffee and muttering to myself about algorithms. My favorite hobbies include debugging, refactoring, and arguing with my computer.
 
 I speak fluent Javascript, PHP, C++, and Python, but I'm also pretty handy with a soldering iron and a can of Red Bull. I love tinkering with hardware almost as much as I love breaking software.
 
