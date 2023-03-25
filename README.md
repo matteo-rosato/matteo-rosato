@@ -1,4 +1,13 @@
-### Hi there 👋
+👋 Hello there, fellow coders! I'm a software engineer by day and a code ninja by night. My code is so clean, you could eat off of it (although I wouldn't recommend it).
+
+When I'm not busy smashing bugs or dreaming up new features, you can usually find me chugging coffee and muttering to myself about algorithms. My favorite hobbies include debugging, refactoring, and arguing with my computer.
+
+I speak fluent Javascript, PHP, C++, and Python, but I'm also pretty handy with a soldering iron and a can of Red Bull. I love tinkering with hardware almost as much as I love breaking software.
+
+In my free time, I enjoy reading tech blogs, listening to nerdy podcasts, and dreaming up new inventions (most of which will never see the light of day). I also like to pretend that I'm a hacker by typing really fast and wearing a hoodie.
+
+Thanks for checking out my Github profile! If you need any help with your code or just want to chat about the latest tech trends, hit me up. I promise I won't judge you for using Windows or DevC++. (Well, maybe a little bit.)
+
 
 <!--
 **matteo-rosato/matteo-rosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
